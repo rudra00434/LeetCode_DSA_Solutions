@@ -23,6 +23,7 @@
 | [0283-move-zeroes](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0283-move-zeroes) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1572-matrix-diagonal-sum](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/1572-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3234-double-modular-exponentiation](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/3234-double-modular-exponentiation) |
 ## Hash Table
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0074-search-a-2d-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/1572-matrix-diagonal-sum) |
 ## Geometry
 |  |
 | ------- |
