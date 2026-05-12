@@ -15,6 +15,7 @@
 | [0039-combination-sum](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0074-search-a-2d-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0204-count-primes) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1250-longest-common-subsequence](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
