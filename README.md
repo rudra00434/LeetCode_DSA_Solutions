@@ -15,6 +15,7 @@
 | [0039-combination-sum](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0189-rotate-array) |
@@ -64,6 +65,7 @@
 | [0011-container-with-most-water](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0283-move-zeroes) |
@@ -117,6 +119,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rudra00434/LeetCode_DSA_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
